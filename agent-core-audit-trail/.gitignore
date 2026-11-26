@@ -1,0 +1,7 @@
+@"
+venv/
+__pycache__/
+*.pyc
+hitl.db
+audit_log.jsonl
+"@ | Out-File -Encoding utf8 .gitignore
